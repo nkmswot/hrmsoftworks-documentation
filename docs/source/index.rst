@@ -1,17 +1,15 @@
-Welcome to Lumache's documentation!
+Welcome to HRM Software documentation!
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+**HRMSoftworks** (/lu'make/) is a HRIS Software that manages your team profile and payroll.
+You can checkout the two versions of our software here  `HRMSoftworks <https://www.hrmsoftworks.com/>`.
 
 Check out the :doc:`usage` section for further information, including
 how to :ref:`installation` the project.
 
 .. note::
 
-   This project is under active development.
+   This project is under active development - CURRENTLY SUPPORTED PHP 7.4
 
 Contents
 --------
@@ -19,4 +17,9 @@ Contents
 .. toctree::
 
    usage
-   api
+   employee
+   timesheet
+   attendance
+   payroll
+   project_management
+

@@ -1,12 +1,25 @@
 Usage
 =====
 
+.. _requirements:
+
+Requirements
+------------
+
+Before using our HRM, you need the following technology stack in your hosting.
+
+>>> PHP 7 or above
+>>> MySQL
+
+
 .. _installation:
 
 Installation
 ------------
 
-To use Lumache, first install it using pip:
+To use our HRM, first install it using the following steps:
+
+
 
 .. code-block:: console
 
