@@ -1,5 +1,5 @@
 """
-Lumache - Python library for cooks and food lovers.
+HRMSoftworks - Best HRIS Software ~ Official Documentation.
 """
 
 __version__ = "0.1.0"
